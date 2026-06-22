@@ -36,6 +36,7 @@ rustPlatform.buildRustPackage (finalAttrs: {
     "cover-art"
     "discord-rpc"
     "mpris"
+    "scripting"
     "streaming"
     "telemetry"
   ]
